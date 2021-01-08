@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coloredCircles/static/css/main.06210d09.chunk.css",
+    "main.js": "/coloredCircles/static/js/main.aacf9d14.chunk.js",
+    "main.js.map": "/coloredCircles/static/js/main.aacf9d14.chunk.js.map",
+    "runtime-main.js": "/coloredCircles/static/js/runtime-main.789577f4.js",
+    "runtime-main.js.map": "/coloredCircles/static/js/runtime-main.789577f4.js.map",
+    "static/js/2.0c695726.chunk.js": "/coloredCircles/static/js/2.0c695726.chunk.js",
+    "static/js/2.0c695726.chunk.js.map": "/coloredCircles/static/js/2.0c695726.chunk.js.map",
+    "static/js/3.88711328.chunk.js": "/coloredCircles/static/js/3.88711328.chunk.js",
+    "static/js/3.88711328.chunk.js.map": "/coloredCircles/static/js/3.88711328.chunk.js.map",
+    "index.html": "/coloredCircles/index.html",
+    "static/css/main.06210d09.chunk.css.map": "/coloredCircles/static/css/main.06210d09.chunk.css.map",
+    "static/js/2.0c695726.chunk.js.LICENSE.txt": "/coloredCircles/static/js/2.0c695726.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/coloredCircles/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.789577f4.js",
+    "static/js/2.0c695726.chunk.js",
+    "static/css/main.06210d09.chunk.css",
+    "static/js/main.aacf9d14.chunk.js"
+  ]
+}
